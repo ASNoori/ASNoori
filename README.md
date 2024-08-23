@@ -1,9 +1,9 @@
-<h1 align="center" style="background-color: #f5f5f5; padding: 10px; border-radius: 10px;">Hi 👋, I'm Noorinisha Begam</h1>
-<h3 align="center" style="background-color: #f5f5f5; padding: 5px; border-radius: 10px;">A passionate Web Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Noorinisha Begam</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="center" style="background-color: #f5f5f5; padding: 10px; border-radius: 10px;">
+<p align="center">
   <a href="https://github.com/ASNoori?tab=repositories">
-    <img src="https://img.shields.io/badge/-My%20Projects-%23000?style=for-the-badge&logo=github" alt="My Projects" />
+    <img src="https://img.shields.io/badge/-My%20Projects-%23000000?style=for-the-badge&logo=github" alt="My Projects" />
   </a>
   <a href="https://dev.to/nooriameer">
     <img src="https://img.shields.io/badge/-Articles-%23000000?style=for-the-badge&logo=dev.to" alt="Articles" />
@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact: I love reading and always have a book on my reading list
 
-<h3 align="left" style="background-color: #f5f5f5; padding: 10px; border-radius: 10px;">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/nooriameer" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
@@ -38,7 +38,7 @@
   </a>
 </p>
 
-<h3 align="left" style="background-color: #f5f5f5; padding: 10px; border-radius: 10px;">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
