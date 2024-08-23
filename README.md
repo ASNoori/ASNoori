@@ -10,7 +10,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Mentoring](https://github.com/ASNoori?tab=repositories): Guiding students through web development projects
+- 🔭 I’m currently working on Mentoring: Guiding students through web development projects
 
 - 🌱 I’m currently learning **Next.js, Frontend Optimization...**
 
