@@ -55,14 +55,14 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" style="margin: 5px"/>
 </p>
 
-<h3 align="left">GitHub Streaks:</h3>
+<!--<h3 align="left">GitHub Streaks:</h3>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASNoori&theme=dark&background=000000" alt="GitHub Streaks" />
 </p>
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ASNoori&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+</p>-->
 
 <h3 align="left">Top Languages:</h3>
 <p align="left">
