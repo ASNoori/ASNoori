@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Noorinisha Begam</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h1 align="center" style="background-color: #f5f5f5; padding: 10px; border-radius: 10px;">Hi 👋, I'm Noorinisha Begam</h1>
+<h3 align="center" style="background-color: #f5f5f5; padding: 5px; border-radius: 10px;">A passionate Web Developer from India</h3>
 
-<p align="center">
+<p align="center" style="background-color: #f5f5f5; padding: 10px; border-radius: 10px;">
   <a href="https://github.com/ASNoori?tab=repositories">
     <img src="https://img.shields.io/badge/-My%20Projects-%23000?style=for-the-badge&logo=github" alt="My Projects" />
   </a>
@@ -11,21 +11,34 @@
 </p>
 
 - 🔭 I’m currently working on [Mentoring](https://github.com/ASNoori?tab=repositories): Guiding students through web development projects
+
 - 🌱 I’m currently learning **Next.js, Frontend Optimization...**
+
 - 👯 I’m looking to collaborate on **Software Development Projects**
+
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/ASNoori?tab=repositories)
+
+- 📝 I regularly write articles on [Dev.to](https://dev.to/nooriameer) and [Medium](https://medium.com/@nooriameer)
+
 - 💬 Ask me about **React, JavaScript, NodeJS, ExpressJS**
+
 - 📫 How to reach me: [nooriameer12@gmail.com](mailto:nooriameer12@gmail.com)
+
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1QS1breUp0GW-0V3cFY1ugDJr_tGU9V8M/view?usp=sharing)
+
 - ⚡ Fun fact: I love reading and always have a book on my reading list
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="background-color: #f5f5f5; padding: 10px; border-radius: 10px;">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/nooriameer" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
   </a>
+  <a href="https://linkedin.com/in/noorinisha-fullstackdeveloper" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="background-color: #f5f5f5; padding: 10px; border-radius: 10px;">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
